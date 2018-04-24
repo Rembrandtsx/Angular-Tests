@@ -4,9 +4,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'titulo',
-  template: `
-    <h1>HOLA MUNDO #ClichéPhrase</h1>
-  `
+  templateUrl: 'titulo.component.html' 
 })
 export class TituloComponent{
 
