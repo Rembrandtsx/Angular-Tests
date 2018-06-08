@@ -1,0 +1,6 @@
+:host{
+    font-size: 10px;
+}
+:host-context(.row-2) h1{
+  color: brown;
+}
