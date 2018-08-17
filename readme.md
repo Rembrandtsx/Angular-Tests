@@ -1,2 +1,2 @@
-# Learning Angular 6
+# Learning Angular 6 :P
 __Camilo Salinas__
