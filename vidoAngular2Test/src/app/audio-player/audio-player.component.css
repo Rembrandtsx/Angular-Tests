@@ -1,0 +1,10 @@
+vg-player{
+    position: fixed;
+    bottom: 0;
+    width: 60vh;
+    background: #212121;
+}
+
+vg-scrub-bar{
+    width: 100%;
+}
