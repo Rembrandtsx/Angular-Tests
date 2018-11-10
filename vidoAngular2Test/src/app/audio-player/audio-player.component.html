@@ -1,4 +1,9 @@
-<vg-player style="height: 10vh;">
+<button (click)="changeSource()">BOTON</button>
+
+
+
+
+<vg-player style="height: 10vh;" (onPlayerReady)="onPlayerReady($event)">
     <vg-controls>
         <vg-play-pause></vg-play-pause>
         
